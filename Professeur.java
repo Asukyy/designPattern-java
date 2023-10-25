@@ -1,4 +1,4 @@
-package javaOld.designPattern;
+package designPattern;
 
 import java.util.List;
 import java.io.Serializable;

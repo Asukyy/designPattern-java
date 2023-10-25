@@ -8,6 +8,7 @@ public class Cours {
     private String nomCours;
     private String horaire;
     private List<Élève> élèvesInscrits; 
+    
 
     public Cours(int idCours, String nomCours, String horaire) {
         this.idCours = idCours;

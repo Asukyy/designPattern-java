@@ -1,4 +1,4 @@
-package javaOld.designPattern;
+package designPattern;
 
 import java.io.*;
 import java.util.List;
